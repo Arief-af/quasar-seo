@@ -1,6 +1,6 @@
 <template>
   <q-page class="flex flex-center">
-   Kanaina is a good website eat food
+   Kanaina is a good website eat food, manaina makanan, kanaina lakasa indikiawa, 
   </q-page>
 </template>
 
@@ -18,7 +18,7 @@ const metaData = {
   // meta tags
   meta: {
     description: { name: 'description', content: 'Kanaina' },
-    keywords: { name: 'Kanaina', content: 'Kanaina a good food from the earth, kanaina is a good' },
+    keywords: { name: 'keyword', content: 'kanaina indonesia, kanaina makanan, kanaina lakasa indikiawa, Kanaina a good food from the earth, kanaina is a good' },
     equiv: { 'http-equiv': 'Content-Type', content: 'text/html; charset=UTF-8' },
     // note: for Open Graph type metadata you will need to use SSR, to ensure page is rendered by the server
     ogTitle:  {
