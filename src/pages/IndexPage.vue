@@ -1,7 +1,7 @@
 <template>
-  <q-page class="flex flex-center">
+  <h1>Kanaina</h1>
    Kanaina is a good website eat food, manaina makanan, kanaina lakasa indikiawa, 
-  </q-page>
+   <p> Kanaina is a good website eat food, manaina makanan, kanaina lakasa indikiawa, </p>
 </template>
 
 <script>
